@@ -1,4 +1,5 @@
 Authentication-Secrets/
+package-lock.json
 # Logs
 logs
 *.log
